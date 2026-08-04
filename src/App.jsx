@@ -1,8 +1,6 @@
 import Todo from "./to_do_list"
 
 function App() {
-
-
   return (
     <>
       <Todo/>
@@ -10,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
