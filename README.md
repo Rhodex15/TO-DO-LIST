@@ -79,6 +79,4 @@ Open `http://localhost:5173` (or the port shown in your terminal) in your browse
 
 ## 📸 Preview
 
-```
-
-```
+https://github.com/user-attachments/assets/96405824-1209-4356-8a12-d9c5d001482c
