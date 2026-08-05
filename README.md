@@ -1,3 +1,4 @@
+
 # 📝 React To-Do List App
 
 A sleek, responsive, and feature-rich task management application built with React and modern Tailwind CSS. Designed to help users organize daily tasks efficiently with full inline editing capabilities and interactive state updates.
@@ -46,3 +47,38 @@ During the styling phase, I integrated Tailwind CSS to replace plain CSS classes
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/YOUR-USERNAME/react-todo-app.git](https://github.com/YOUR-USERNAME/react-todo-app.git)
+
+```
+
+2. **Navigate to the Project Folder:**
+```bash
+cd react-todo-app
+
+```
+
+
+3. **Install Dependencies:**
+```bash
+npm install
+
+```
+
+
+4. **Start the Development Server:**
+```bash
+npm run dev
+# or
+npm start
+
+```
+
+
+Open `http://localhost:5173` (or the port shown in your terminal) in your browser to view the app.
+
+---
+
+## 📸 Preview
+
+```
+
+```
